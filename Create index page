@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Maria Camila Uribe | Finance & Data Analytics</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+  <header class="hero">
+    <h1>Maria Camila Uribe</h1>
+    <h2>Strategic Finance & Data Analytics</h2>
+    <p>
+      Transformo datos financieros y operativos en insights claros para apoyar
+      decisiones estratégicas, crecimiento y mejora del desempeño del negocio.
+    </p>
+
+    <div class="buttons">
+      <a href="assets/cv.pdf" target="_blank">Ver CV</a>
+      <a href="https://www.linkedin.com/in/mcamiuribe/" target="_blank">LinkedIn</a>
+      <a href="https://github.com/mcamuribe" target="_blank">GitHub</a>
+    </div>
+  </header>
+
+  <main>
+    <section>
+      <h2>Acerca de mí</h2>
+      <p>
+        Soy profesional en finanzas y analítica de datos con experiencia en análisis financiero,
+        gestión de riesgos, reporting ejecutivo, tesorería, valoración y análisis de desempeño
+        de negocio. Uso Python, SQL, Power BI, Tableau y Excel para convertir información compleja
+        en recomendaciones accionables para la toma de decisiones.
+      </p>
+    </section>
+
+    <section>
+      <h2>Habilidades</h2>
+      <ul class="skills">
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Power BI</li>
+        <li>Tableau</li>
+        <li>Excel avanzado</li>
+        <li>Financial Analysis</li>
+        <li>FP&A</li>
+        <li>Business Strategy</li>
+        <li>KPI Dashboards</li>
+        <li>Risk Analytics</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>Proyectos seleccionados</h2>
+
+      <article class="project">
+        <h3>Telecom Operator Performance Dashboard</h3>
+        <p>
+          Análisis de desempeño operativo para identificar operadores ineficaces,
+          llamadas perdidas, tiempos de espera y oportunidades de mejora.
+        </p>
+        <p><strong>Herramientas:</strong> Python, Pandas, Tableau, KPIs.</p>
+        <a href="#">Ver proyecto</a>
+      </article>
+
+      <article class="project">
+        <h3>SQL Business Analysis</h3>
+        <p>
+          Análisis SQL de una base de datos de libros, autores, reseñas y editoriales
+          para generar recomendaciones de negocio.
+        </p>
+        <p><strong>Herramientas:</strong> SQL, PostgreSQL, análisis de negocio.</p>
+        <a href="#">Ver proyecto</a>
+      </article>
+
+      <article class="project">
+        <h3>Financial Performance Dashboard</h3>
+        <p>
+          Dashboard financiero para analizar ingresos, costos, rentabilidad,
+          variaciones, KPIs y tendencias de negocio.
+        </p>
+        <p><strong>Herramientas:</strong> Power BI/Tableau, Excel, SQL, Python.</p>
+        <a href="#">Ver proyecto</a>
+      </article>
+    </section>
+
+    <section>
+      <h2>Contacto</h2>
+      <p>Email: <a href="mailto:mcuribe0127@gmail.com">mcuribe0127@gmail.com</a></p>
+      <p>LinkedIn: <a href="https://www.linkedin.com/in/mcamiuribe/" target="_blank">linkedin.com/in/mcamiuribe</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2026 Maria Camila Uribe | Finance & Data Analytics Portfolio</p>
+  </footer>
+</body>
+</html>
